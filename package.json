@@ -1,0 +1,26 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "my example",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanchard/nwen304-lab2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanchard/nwen304-lab2/issues"
+  },
+  "homepage": "https://github.com/ryanchard/nwen304-lab2",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+}
